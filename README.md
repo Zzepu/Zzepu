@@ -4,7 +4,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Workbench](https://img.shields.io/badge/Workbench-212529?style=for-the-badge&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-2C3E50?style=for-the-badge&logo=pinecone&logoColor=white)
 ***
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
